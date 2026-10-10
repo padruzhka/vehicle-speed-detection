@@ -56,8 +56,8 @@ python speed_night.py
 | Обнаружений по всем кадрам |          2351 |         1123 |
 | Различных ID треков        |            84 |           17 |
 
-Дневное видео
+## Дневное видео
 <img width="851" height="479" alt="image" src="https://github.com/user-attachments/assets/86ee1d55-c9f9-4711-bdf5-3b6997578d81" />
 
-Ночное видео
+## Ночное видео
 <img width="858" height="480" alt="image" src="https://github.com/user-attachments/assets/16ca4166-296a-461a-8db5-6bd0f5b35aca" />
