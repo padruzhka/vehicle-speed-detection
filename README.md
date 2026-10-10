@@ -1,5 +1,3 @@
-# vehicle-speed-detection
-
 # Vehicle Speed Detection
 
 Проект для обнаружения и отслеживания транспортных средств на дневном и ночном видео с помощью YOLOv8n.
